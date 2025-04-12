@@ -1,0 +1,2 @@
+# quickslot
+quickslot
